@@ -18,7 +18,7 @@ export default function About() {
                     <li>Back End: NodeJS</li>
                     <li>Testing: Unit testing (Jasmine)</li>
                     <li>Principles & Methodologies: Agile, Scrum, OOP, MVC.</li>
-                    <li>Management Software: Trello, Google Carlendar, Microsoft Project Management.</li>
+                    <li>Management Software: Trello, Google Calendar, Microsoft Project Management.</li>
                     <li>Other technologies/ Frameworks: Arduino, UIPath.</li>
                 </ul>
               </p>
