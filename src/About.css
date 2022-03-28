@@ -1,0 +1,15 @@
+.about_title
+{
+    color:white;
+    text-align: left;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.about_des
+{
+    color:white;
+    text-align: justify;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
