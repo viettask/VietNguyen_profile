@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/VietNguyen_profile/static/css/main.25da379d.chunk.css",
+    "main.js": "/VietNguyen_profile/static/js/main.15581b19.chunk.js",
+    "main.js.map": "/VietNguyen_profile/static/js/main.15581b19.chunk.js.map",
+    "runtime-main.js": "/VietNguyen_profile/static/js/runtime-main.688cec30.js",
+    "runtime-main.js.map": "/VietNguyen_profile/static/js/runtime-main.688cec30.js.map",
+    "static/js/2.fd77a867.chunk.js": "/VietNguyen_profile/static/js/2.fd77a867.chunk.js",
+    "static/js/2.fd77a867.chunk.js.map": "/VietNguyen_profile/static/js/2.fd77a867.chunk.js.map",
+    "index.html": "/VietNguyen_profile/index.html",
+    "static/css/main.25da379d.chunk.css.map": "/VietNguyen_profile/static/css/main.25da379d.chunk.css.map",
+    "static/js/2.fd77a867.chunk.js.LICENSE.txt": "/VietNguyen_profile/static/js/2.fd77a867.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/VietNguyen_profile/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.688cec30.js",
+    "static/js/2.fd77a867.chunk.js",
+    "static/css/main.25da379d.chunk.css",
+    "static/js/main.15581b19.chunk.js"
+  ]
+}
