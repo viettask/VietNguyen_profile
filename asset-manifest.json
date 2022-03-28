@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VietNguyen_profile/static/css/main.25da379d.chunk.css",
-    "main.js": "/VietNguyen_profile/static/js/main.15581b19.chunk.js",
-    "main.js.map": "/VietNguyen_profile/static/js/main.15581b19.chunk.js.map",
+    "main.js": "/VietNguyen_profile/static/js/main.75d1d41b.chunk.js",
+    "main.js.map": "/VietNguyen_profile/static/js/main.75d1d41b.chunk.js.map",
     "runtime-main.js": "/VietNguyen_profile/static/js/runtime-main.688cec30.js",
     "runtime-main.js.map": "/VietNguyen_profile/static/js/runtime-main.688cec30.js.map",
     "static/js/2.fd77a867.chunk.js": "/VietNguyen_profile/static/js/2.fd77a867.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.688cec30.js",
     "static/js/2.fd77a867.chunk.js",
     "static/css/main.25da379d.chunk.css",
-    "static/js/main.15581b19.chunk.js"
+    "static/js/main.75d1d41b.chunk.js"
   ]
 }
